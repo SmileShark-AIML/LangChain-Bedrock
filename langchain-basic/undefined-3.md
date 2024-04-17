@@ -127,4 +127,6 @@ hub.push(f"{PROMPT_OWNER}/{prompt_title}", prompt)
 
 이렇게 작성한 프롬프트를 LangChain 허브에 업로드하여 다른 사용자들과 공유할 수 있습니다.
 
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 위의 두 가지 방법을 통해 LangChain 프롬프트 허브를 활용하여 프롬프트를 가져오고 업로드할 수 있습니다. 프롬프트를 업로드할 때는 API 키를 환경 변수로 설정해야 합니다. 이를 통해 다양한 태스크에 적합한 프롬프트를 쉽게 찾고 공유할 수 있습니다.
