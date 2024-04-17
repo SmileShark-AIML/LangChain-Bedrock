@@ -14,3 +14,4 @@
 * [LCEL 기본요소](langchain-basic/lcel.md)
 * [스키마와 체인 호출](langchain-basic/undefined.md)
 * [프롬프트](langchain-basic/undefined-1.md)
+* [퓨샷 프롬프트](langchain-basic/undefined-2.md)
