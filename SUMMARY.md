@@ -15,3 +15,4 @@
 * [스키마와 체인 호출](langchain-basic/undefined.md)
 * [프롬프트](langchain-basic/undefined-1.md)
 * [퓨샷 프롬프트](langchain-basic/undefined-2.md)
+* [프롬프트허브](langchain-basic/undefined-3.md)
