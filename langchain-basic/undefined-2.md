@@ -17,10 +17,8 @@ from langchain.prompts.prompt import PromptTemplate
 
 #### 2. 예시 데이터 준비
 
-````python
-```python
-examples = [
-    {
+<pre class="language-python"><code class="lang-python"><strong>examples = [
+</strong>    {
         "question": "스티브 잡스와 아인슈타인 중 누가 더 오래 살았나요?",
         "answer": """
 이 질문에 추가 질문이 필요한가요: 예.
@@ -71,8 +69,7 @@ examples = [
 """,
     },
 ]
-```
-````
+</code></pre>
 
 * 퓨샷 프롬프트에 사용할 예시 데이터를 준비합니다.
 * 각 예시는 질문과 답변으로 구성된 딕셔너리 형태로 저장됩니다.
