@@ -23,3 +23,9 @@
 
 * [PydanticOuputParser](ouput-parser/pydanticouputparser.md)
 * [CommaSeparatedListOutputParser](ouput-parser/commaseparatedlistoutputparser.md)
+* [StructuredOuputParser](ouput-parser/structuredouputparser.md)
+* [JsonOutputParser](ouput-parser/jsonoutputparser.md)
+* [PandasDataFrameOutputParser](ouput-parser/pandasdataframeoutputparser.md)
+* [DatetimeOutputParser](ouput-parser/datetimeoutputparser.md)
+* [EnumOutputParser](ouput-parser/enumoutputparser.md)
+* [OutputFixingParser](ouput-parser/outputfixingparser.md)
