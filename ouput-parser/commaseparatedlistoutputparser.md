@@ -107,4 +107,4 @@ for s in chain.stream({"subject": "대한민국 관광명소"}):
 * `chain.stream` 메서드를 사용하여 체인을 Stream 모드로 실행합니다.
 * 출력 결과가 실시간으로 생성되며, 각 결과는 쉼표로 구분된 리스트로 반환됩니다.
 
-이상으로 LangChain의 CommaSeparatedListOutputParser 사용 방법에 대해 알아보았습니다. CommaSeparatedListOutputParser를 활용하면 LLM의 출력을 쉼표로 구분된 리스트로 쉽게 변환할 수 있습니다. 이를 통해 LLM의 출력을 리스트 형태로 활용하여 다양한 애플리케이션에 적용할 수 있습니다.
+CommaSeparatedListOutputParser를 활용하면 LLM의 출력을 쉼표로 구분된 리스트로 쉽게 변환할 수 있습니다. 이를 통해 LLM의 출력을 리스트 형태로 활용하여 다양한 애플리케이션에 적용할 수 있습니다.
