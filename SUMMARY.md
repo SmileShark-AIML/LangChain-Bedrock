@@ -1,8 +1,10 @@
 # Table of contents
 
+* [LangChain with Amazon Bedrock Claude3](README.md)
+
 ## Bedrock 구성하기 <a href="#set-bedrock" id="set-bedrock"></a>
 
-* [모델 액세스 설정하기](README.md)
+* [모델 액세스 설정하기](<README (1).md>)
 * [Foundation Model 테스트](set-bedrock/test-fm.md)
 
 ## LangChain 환경 구성하기 <a href="#set" id="set"></a>
