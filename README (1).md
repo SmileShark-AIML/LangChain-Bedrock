@@ -16,10 +16,10 @@ Bedrock의 파운데이션 모델을 사용하기 위해서는 먼저 모델 액
 
 1.  Bedrock 콘솔로 이동하여 "모델 액세스" 메뉴로 이동합니다.
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 2.  모델 액세스 관리를 통해 원하는 Foundation Model을 허용합니다.
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 3.  대부분의 내용이 Claude모델과 Embed 모델로 이뤄질것이므로, 해당 모델을 반드시 포함하여 선택 후 변경사항을 저장합니다.
 
     <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
